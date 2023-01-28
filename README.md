@@ -4,7 +4,8 @@
 - camera, scene, lighting
 - textures
 - orbital control etc 
-to give a view of karachi
+
+File was hosted on a local server using parcel.
 
 
 ![image](https://user-images.githubusercontent.com/66268281/215273888-b9b4f67d-06bd-4f7a-bbba-dffd9bad3dbd.png)
