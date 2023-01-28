@@ -1,6 +1,6 @@
 # 3D-Karachi-City--ThreeJS
 
-3D karachi city which uses
+Components:
 - camera, scene, lighting
 - textures
 - orbital control etc 
